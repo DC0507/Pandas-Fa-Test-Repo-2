@@ -1,3 +1,3 @@
 azure-functions
 pandas
-#matplotlib
+matplotlib
